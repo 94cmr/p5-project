@@ -1,5 +1,4 @@
-//Carlos Iván Mata Rodríguez
-//A01420165
+
 
 var monoSynth;
 var them = [];
